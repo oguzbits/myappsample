@@ -1,4 +1,4 @@
-#Cheatsheet
+# Cheatsheet
 
 ```
 1.) git init
