@@ -26,7 +26,7 @@ git push -f origin master
 ```
 but this deletes every file in remote repo and adds local repo to it
 
-##more:
+## more
 
 --> check status
 ```
