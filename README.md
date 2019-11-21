@@ -41,7 +41,7 @@ but this deletes every file in remote repo and adds local repo to it
 --> To push the current branch and set the remote as upstream, use
 
 ```
-    git push --set-upstream https://github.com/oguzbits/isodigify master
+    git push --set-upstream https://github.com/oguzbits/myappsample master
 ```
 
 --> check status
